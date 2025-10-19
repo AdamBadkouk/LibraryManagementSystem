@@ -1,2 +1,0 @@
-C++ Book|Adam|2341|1
-C# book|Adam|8923|1
